@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
-import userListRouter from './routes/UserList.js';
-import authRouter from './routes/Auth.js';
+import userListRouter from './src/routes/UserList.js';
+import authRouter from './src/routes/Auth.js';
 
 const app = express();
 const port = 3001;
