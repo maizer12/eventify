@@ -1,0 +1,26 @@
+[
+	{
+		"login": "admin",
+		"password": "admin"
+	},
+	{
+		"login": "john_doe",
+		"password": "password1"
+	},
+	{
+		"login": "emma_smith",
+		"password": "password2"
+	},
+	{
+		"login": "alex_jones",
+		"password": "password3"
+	},
+	{
+		"login": "laura_brown",
+		"password": "password4"
+	},
+	{
+		"login": "michael_clark",
+		"password": "password5"
+	}
+]
